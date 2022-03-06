@@ -27,12 +27,10 @@
 @@|msftncsi.com^$important
 @@|outlook.office365.com^$important
 @@|s.youtube.com^$important
-@@|video-stats.l.google.com^$important
-@@|www.googleapis.com^$important
-@@|youtubei.googleapis.com^$important
 @@|oauthaccountmanager.googleapis.com^$important
 @@|officeclient.microsoft.com^$important
 @@|products.office.com^$important
+@@|r3.o.lencr.org^$important
 @@|reddit-uploaded-media.s3-accelerate.amazonaws.com^$important
 @@|reddit.map.fastly.net^$important
 @@|redirector.gvt1.com^$important
@@ -42,8 +40,11 @@
 @@|tlu.dl.delivery.mp.microsoft.com^$important
 @@|twitter.com^$important
 @@|upload.twitter.com^$important
+@@|video-stats.l.google.com^$important
 @@|wa.me^$important
+@@|www.googleapis.com^$important
 @@|www.msftncsi.com^$important
 @@|www.redditmedia.com^$important
 @@|www.redditstatic.com^$important
 @@|www.wa.me^$important
+@@|youtubei.googleapis.com^$important
