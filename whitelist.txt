@@ -12,6 +12,7 @@
 @@|dl.delivery.mp.microsoft.com^$important
 @@|dl.google.com^$important
 @@|fe3.delivery.dsp.mp.microsoft.com.nsatc.net^$important
+@@|firebaseinstallations.googleapis.com^$important
 @@|firestore.googleapis.com^$important
 @@|geo-prod.do.dsp.mp.microsoft.com^$important
 @@|gfwsl.geforce.com^$important
