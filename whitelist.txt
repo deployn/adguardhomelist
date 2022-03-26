@@ -32,7 +32,7 @@
 @@|officeclient.microsoft.com^$important
 @@|products.office.com^$important
 @@|r3.o.lencr.org^$important
-@@|r5*.gvt1.com^$important
+@@|rr5*.gvt1.com^$important
 @@|reddit-uploaded-media.s3-accelerate.amazonaws.com^$important
 @@|reddit.map.fastly.net^$important
 @@|redirector.gvt1.com^$important
