@@ -28,6 +28,7 @@
 @@|msftncsi.com^$important
 @@|outlook.office365.com^$important
 @@|s.youtube.com^$important
+@@|self.events.data.microsoft.com^$important
 @@|oauthaccountmanager.googleapis.com^$important
 @@|officeclient.microsoft.com^$important
 @@|products.office.com^$important
