@@ -1,3 +1,4 @@
+@@|accounts.google.com^$important
 @@|android.clients.google.com^$important
 @@|api.twitter.com^$important
 @@|api2.branch.io^$important
