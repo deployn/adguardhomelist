@@ -2,6 +2,7 @@
 @@|android.clients.google.com^$important
 @@|api.twitter.com^$important
 @@|api2.branch.io^$important
+@@|auth-launcher-eu.hismarttv.com^$important
 @@|clients2.google.com^$important
 @@|clients3.google.com^$important
 @@|clients4.google.com^$important
@@ -45,6 +46,7 @@
 @@|tlu.dl.delivery.mp.microsoft.com^$important
 @@|twitter.com^$important
 @@|upload.twitter.com^$important
+@@|vendor-list.consensu.org^$important
 @@|video-stats.l.google.com^$important
 @@|wa.me^$important
 @@|www.googleapis.com^$important
