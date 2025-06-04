@@ -1,5 +1,6 @@
 @@|accounts.google.com^$important
 @@|android.clients.google.com^$important
+@@|api-launcher-eu.hismarttv.com^$important
 @@|api.twitter.com^$important
 @@|api2.branch.io^$important
 @@|auth-launcher-eu.hismarttv.com^$important
@@ -11,9 +12,11 @@
 @@|connectivitycheck.gstatic.com^$important
 @@|c.s-microsoft.com^$important
 @@|deployn.de^$important
+@@|discover.techsmith.com^$important
 @@|displaycatalog.mp.microsoft.com^$important
 @@|dl.delivery.mp.microsoft.com^$important
 @@|dl.google.com^$important
+@@|event-collector.prd.dada.s.joyn.de^$important
 @@|fe3.delivery.dsp.mp.microsoft.com.nsatc.net^$important
 @@|firebaseinstallations.googleapis.com^$important
 @@|firestore.googleapis.com^$important
@@ -26,6 +29,7 @@
 @@|i.s-microsoft.com^$important
 @@|login.live.com^$important
 @@|login.microsoftonline.com^$important
+@@|makeforms.io^$important
 @@|mobile.twitter.com^$important
 @@|msedge.api.cdp.microsoft.com^$important
 @@|msftncsi.com^$important
