@@ -59,3 +59,4 @@
 @@|www.redditstatic.com^$important
 @@|www.wa.me^$important
 @@|youtubei.googleapis.com^$important
+@@|google.com
