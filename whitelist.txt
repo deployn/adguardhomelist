@@ -45,6 +45,7 @@
 @@|reddit.map.fastly.net^$important
 @@|redirector.gvt1.com^$important
 @@|reminders-pa.googleapis.com^$important
+@@|service.minerva.devices.a2z.com^$important
 @@|sls.update.microsoft.com.akadns.net^$important
 @@|styles.redditmedia.com^$important
 @@|tlu.dl.delivery.mp.microsoft.com^$important
