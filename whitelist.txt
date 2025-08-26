@@ -1,5 +1,6 @@
 @@|accounts.google.com^$important
 @@|android.clients.google.com^$important
+@@|alb.reddit.com^$important
 @@|api-launcher-eu.hismarttv.com^$important
 @@|api.twitter.com^$important
 @@|api2.branch.io^$important
