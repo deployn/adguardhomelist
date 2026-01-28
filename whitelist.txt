@@ -4,6 +4,7 @@
 @@|api-launcher-eu.hismarttv.com^$important
 @@|api.twitter.com^$important
 @@|api2.branch.io^$important
+@@|app-measurement.com^$important
 @@|auth-launcher-eu.hismarttv.com^$important
 @@|clients2.google.com^$important
 @@|clients3.google.com^$important
