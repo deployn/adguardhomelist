@@ -27,6 +27,7 @@
 @@|googleapis.l.google.com^$important
 @@|gstaticadssl.l.google.com^$important
 @@||gvt2.com^$important
+@@||gvt3.com^$important
 @@|g.live.com^$important
 @@|ipv6.msftncsi.com^$important
 @@|i.s-microsoft.com^$important
