@@ -42,6 +42,7 @@
 @@|self.events.data.microsoft.com^$important
 @@|oauthaccountmanager.googleapis.com^$important
 @@|officeclient.microsoft.com^$important
+@@|pagead2.googlesyndication.com^$important
 @@|products.office.com^$important
 @@|r3.o.lencr.org^$important
 @@|rr5---sn-8xgn5uxa-cxge.gvt1.com^$important
